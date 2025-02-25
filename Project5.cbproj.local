@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.855,=C:\Users\Ivan\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\Ivan\Documents\Embarcadero\Studio\Projects\Project5PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,=D:\TestTask\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\TestTask\Unit6.h=D:\TestTask\MainForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,D:\TestTask\ChildForm.h=D:\TestTask\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,D:\TestTask\ChildForm.dfm=D:\TestTask\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\Ivan\Documents\Embarcadero\Studio\Projects\Project5.cbproj=C:\Users\Ivan\Documents\Embarcadero\Studio\Projects\Project5.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,D:\TestTask\ChildForm.cpp=D:\TestTask\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\TestTask\Unit6.dfm=D:\TestTask\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\TestTask\Unit6.cpp=D:\TestTask\MainForm.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
